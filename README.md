@@ -16,4 +16,4 @@ API_URL: Constructs the full URL for the API call using the city, key, and units
 
 output :
 
-> ![Image](https://github.com/user-attachments/assets/f67afe22-954e-4e05-ad75-eb9e80be4cd6)
+![Image](https://github.com/user-attachments/assets/4351bb70-75e6-4d3f-984e-ae603c7d5036)
